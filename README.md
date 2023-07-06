@@ -11,7 +11,9 @@ This is a CRUD (Create, Read, Update, Delete) API for managing a contact list. I
 
 ## Getting Started
 
-To get started with the project, follow the instructions below:
+This project also includes the coding problems, check it in the coding problems folder and run the driver: `node driver.js`
+
+To get started with the Contact List API project, follow the instructions below:
 
 1. Clone the repository: `git clone <repository-url>`
 2. Install the dependencies: `npm install`
